@@ -1,5 +1,14 @@
+# Floyd Haremsa
+### TODO:
+  - [ ] make a nice profile bio
+  - [ ] create a proper profile readme
+    - [ ] with some actual useful information
+
+---
+
+### here's the default one until then:
 - 👋 Hi, I’m @dein-ding
-- 👀 I’m interested in both Front- and Back-End.
+- 👀 I’m interested in Full-Stack.
 - 🌱 I’m currently learning JavaScript and I'm looking forward to learn a few frameworks and other technologies.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: dein.ding@gmx.de
