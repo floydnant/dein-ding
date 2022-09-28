@@ -1,7 +1,7 @@
 # Floyd Haremsa
 ### TODO:
   - [ ] Make a nice profile bio
-  - [ ] Add a good photo
+  - [x] Add a good photo
   - [ ] Create a proper profile readme
     - [ ] with some actually useful information
       - [ ] [Codepen/dein-ding](https://codepen.io/dein-ding)
