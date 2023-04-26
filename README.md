@@ -1,14 +1,14 @@
 # Floyd Haremsa
 ### TODO:
   - [ ] Make a nice profile bio
-  - [x] Add a good photo
   - [ ] Create a proper profile readme
     - [ ] with some actually useful information
       - [ ] [Codepen/dein-ding](https://codepen.io/dein-ding)
+      - [ ] [twitter/dein__ding](https://twitter.com/dein__ding)
       - [ ] Personal Website
         - [ ] Build a personal website
   - [ ] Show off cool projects
-    - [ ] [todo-app](https://github.com/dein-ding/todo-app) (Yes a todo app, but more complex)
+    - [ ] [rockket](https://github.com/dein-ding/rockket) (task manager)
     - [ ] [chat-app](https://github.com/dein-ding/realtime-chat-app)
 
 ---
