@@ -3,8 +3,8 @@
   - [ ] Make a nice profile bio
   - [ ] Create a proper profile readme
     - [ ] with some actually useful information
-      - [ ] [Codepen/dein-ding](https://codepen.io/dein-ding)
-      - [ ] [twitter/dein__ding](https://twitter.com/dein__ding)
+      - [x] [Codepen/dein-ding](https://codepen.io/dein-ding)
+      - [x] [twitter/dein__ding](https://twitter.com/dein__ding)
       - [ ] Personal Website
         - [ ] Build a personal website
   - [ ] Show off cool projects
